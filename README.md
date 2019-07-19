@@ -5,7 +5,7 @@ A simple XML file to import as User Defined Language in Notepad++ which allows s
 ## Issues
 There are still some minor issues I wasn't able to work out, such as labels and sometimes numbers after a statement don’t get the default number color.
 
-Also, all statemens, keywords, and functions need to be UPPER CASE to work. I chose to limit it to uppercase because otherwise text contained in strings looked overly garish and 
+Also, all statemens, keywords, and functions need to be UPPER CASE to work. I chose to limit it to uppercase because otherwise text contained in strings looked overly garish and harder to read than necessary.
 
 
 ## Installation
@@ -21,7 +21,7 @@ Each time you want to highlight Ink markup, just select it from the Language men
 If you open files with an .bas extension, they should get recognized as such automatically.
 
 ### Alternate Method
-(from the [Notepad++ website](http://notepad-plus.sourceforge.net/uk/site.htm)
+(from the [Notepad++ website](http://notepad-plus.sourceforge.net/uk/site.htm))
 
 1. Download the user-defined language to your computer
 2. Open the file with your favourite text editor (such as notepad++ or notepad)
