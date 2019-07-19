@@ -1,7 +1,4 @@
 # bas_npp
-Syntax highlighting for QuickBASIC files in Notepad++
-
-# ink_npp
 ## What it is
 A simple XML file to import as User Defined Language in Notepad++ which allows syntax highlighting of files written in BASIC.
 
